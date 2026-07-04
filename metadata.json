@@ -1,0 +1,6 @@
+{
+  "name": "AffBio",
+  "description": "Nền tảng CRM kết hợp Landing Page Builder bán hàng thông minh - Tối ưu chuyển đổi và tự động hóa vận hành.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
